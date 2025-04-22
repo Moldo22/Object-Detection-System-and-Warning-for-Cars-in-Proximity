@@ -42,8 +42,8 @@ This system is an example of using artificial intelligence to improve road safet
      ```
      This command trains the YOLOv8 Nano model on the GTSRB dataset for 50 epochs, using images of size 640x640.
 
-    **Data Modeling Before Training:**
-    - The `trafficModel.yaml` file is configured to allow the training of the YOLO model with the GTSRB dataset.
+   **Data Modeling Before Training:**
+   - The `trafficModel.yaml` file is configured to allow the training of the YOLO model with the GTSRB dataset.
 
 ## Requirements
 
